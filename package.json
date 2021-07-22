@@ -1,0 +1,19 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "Testing Using Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pluxlite/NodeServer.git"
+  },
+  "author": "Robert Bowen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pluxlite/NodeServer/issues"
+  },
+  "homepage": "https://github.com/Pluxlite/NodeServer#readme"
+}
