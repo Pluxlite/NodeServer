@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Pluxlite/NodeServer/issues"
   },
-  "homepage": "https://github.com/Pluxlite/NodeServer#readme"
+  "homepage": "https://github.com/Pluxlite/NodeServer#readme",
+  "dependencies": {
+    "nodemon": "^2.0.12",
+    "uuid": "^8.3.2"
+  }
 }
